@@ -335,6 +335,16 @@ Bundle-DocURL:
           </executions>
                               
           <dependencies>
+		  
+			<dependency>
+                                          
+              <groupId>com.nyl.foundation</groupId>
+                                          
+              <artifactId>nyl-foundation</artifactId>
+                                          
+              <version>0.0.1-SNAPSHOT</version>
+                                      
+            </dependency>
                                     
             <dependency>
                                           
