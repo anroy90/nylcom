@@ -81,11 +81,7 @@ Import-Package: javax.annotation;version=0.0.0,*
     </build>
 
     <dependencies>
-		<dependency>                                          
-              <groupId>com.nyl.foundation</groupId>                                          
-              <artifactId>nyl-foundation</artifactId>
-            </dependency>
-        <dependency>
+		<dependency>                                     
             <groupId>uk.org.lidalia</groupId>
             <artifactId>slf4j-test</artifactId>
             <scope>test</scope>

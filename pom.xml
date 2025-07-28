@@ -340,7 +340,7 @@ Bundle-DocURL:
                                           
               <groupId>com.nyl.foundation</groupId>
                                           
-              <artifactId>nyl-foundation</artifactId>
+              <artifactId>nyl-foundation.core</artifactId>
                                           
               <version>0.0.1-SNAPSHOT</version>
                                       
